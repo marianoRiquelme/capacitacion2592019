@@ -1,8 +1,4 @@
 sarazaaa
 mariano loquin
-
-<<<<<<< HEAD
 CAMBIO DE DIEGO
-=======
-adddf
->>>>>>> 17131a8beb48388a97ee81eb1e3eb8407541408d
+
