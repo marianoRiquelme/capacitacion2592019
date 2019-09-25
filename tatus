@@ -1,0 +1,218 @@
+[33mcommit 77760dd219e10a76b652c921566880d971263e93[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Fernando Lopez <fernando.lopez@synapse.com>
+Date:   Wed Sep 25 12:01:26 2019 -0300
+
+    agrego txt
+
+[33mcommit 9db960b603c01242309ed77812a1a1605ddc6f90[m
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 11:45:02 2019 -0300
+
+    act diego.txt
+
+[33mcommit 16038f0d42b7a6876142d169635fc5a2edbea1c8[m
+Merge: 0923fbb c231f4d
+Author: Alejandro Gil <alejandro.gil@synapse.com>
+Date:   Wed Sep 25 11:41:34 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 0923fbb9ba189434c5ed268d6a7e875eaf231c2a[m
+Author: Alejandro Gil <alejandro.gil@synapse.com>
+Date:   Wed Sep 25 11:41:02 2019 -0300
+
+    hola
+
+[33mcommit c231f4d655712a8de666bb8a518f6cb2d5a52ebb[m
+Author: German Pereyra <german.pereyra@synapse.com>
+Date:   Wed Sep 25 11:40:25 2019 -0300
+
+    prueba
+
+[33mcommit 0bc1fade490e439aa39ef11e31503d299eaeeb3c[m
+Merge: 8725b9c 17131a8
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 11:38:55 2019 -0300
+
+    probando asdasd
+
+[33mcommit 17131a8beb48388a97ee81eb1e3eb8407541408d[m
+Merge: 4dfdd46 e544eea
+Author: German Pereyra <german.pereyra@synapse.com>
+Date:   Wed Sep 25 11:35:39 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit e544eea9f3c8baac80f29daec2de7357e22d72eb[m
+Author: Mathias <mathias.gonzalez@globallogic.com>
+Date:   Wed Sep 25 11:31:16 2019 -0300
+
+    Cambios hechos
+
+[33mcommit 4dfdd46c4bc1cee893c21c610172b0fb94b56e32[m
+Merge: 70baf21 9d85305
+Author: German Pereyra <german.pereyra@synapse.com>
+Date:   Wed Sep 25 11:29:19 2019 -0300
+
+    Merg bevelop' of https://github.com/m Lines starting with '#' will be ignored, and an empty message aborts
+
+[33mcommit 70baf21b71e76f4b023974d8ed993caeecb05e44[m
+Author: German Pereyra <german.pereyra@synapse.com>
+Date:   Wed Sep 25 11:28:26 2019 -0300
+
+    probando
+
+[33mcommit 9d85305029b40defd33007c52b0a99df86b99d95[m
+Merge: e243e90 6be41c9
+Author: MarianoR <mariano.riquelme@globallogic.com>
+Date:   Wed Sep 25 11:26:42 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 8725b9c3400554de9f91d35b17b43a14b212dd36[m
+Merge: b5ecd12 6be41c9
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 11:25:21 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit e243e906ef719ae4211d88f35bd31364d8af8955[m
+Author: MarianoR <mariano.riquelme@globallogic.com>
+Date:   Wed Sep 25 11:24:13 2019 -0300
+
+    esto es una modificacion mia
+
+[33mcommit b5ecd12f1633ff8ae2750ebdca26e7a6737375ab[m
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 11:23:39 2019 -0300
+
+    Cambio de diego
+
+[33mcommit 6be41c9b0d096a34338110885419e7bcb1b727e0[m
+Author: Pilar Ledesma Gonzalez <pilar.gonzalez@globallogic.com>
+Date:   Wed Sep 25 11:13:28 2019 -0300
+
+    sarasa
+
+[33mcommit 311ab803b7f8e5aec4c839f060edb4f1a563c971[m
+Author: Facundo Ibarzabal <facundo.ibarzabal@globallogic.com>
+Date:   Wed Sep 25 10:58:54 2019 -0300
+
+    borre hola
+
+[33mcommit 63aa6a047c6b6935cf07b79b401dc41d2e063593[m
+Author: Facundo Ibarzabal <facundo.ibarzabal@globallogic.com>
+Date:   Wed Sep 25 10:57:19 2019 -0300
+
+    hola
+
+[33mcommit 181aa9dc2d3796f38afbe7fa8957f93107a07ccc[m
+Merge: 9fe22b2 e4bc9d3
+Author: edgar <edgardojavier14@outlook.com.ar>
+Date:   Wed Sep 25 10:33:08 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 9fe22b204e3b4bd05246b78f19776cf3a382a7b1[m
+Merge: 1fed2e2 5ecabce
+Author: edgar <edgardojavier14@outlook.com.ar>
+Date:   Wed Sep 25 10:32:22 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit e4bc9d3ad22a26248364ca1612e7f113269b6c0d[m
+Merge: 6cb164c 5ecabce
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 10:32:17 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 1fed2e23f022ff04342394bd46adc1bdadadb634[m
+Author: edgar <edgardojavier14@outlook.com.ar>
+Date:   Wed Sep 25 10:31:50 2019 -0300
+
+    primer coomit
+
+[33mcommit 5ecabceb04fb84d358c1ddb3c36223bcbed7545b[m
+Merge: ea59308 47c120b
+Author: Mathias <mathias.gonzalez@globallogic.com>
+Date:   Wed Sep 25 10:30:54 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 47c120bd6a14d5827442ae74404839e1885618f5[m
+Merge: bc01545 a72a41d
+Author: MarianoR <mariano.riquelme@globallogic.com>
+Date:   Wed Sep 25 10:30:19 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 6cb164c897f2d20468eeeee4ec02ee6fb34c1690[m
+Merge: 3087039 a72a41d
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 10:28:15 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 3087039e960b4410f21931008bd7eca7b14ffb7b[m
+Author: diegoCastellani <castellanidl@gmail.com>
+Date:   Wed Sep 25 10:28:08 2019 -0300
+
+    cambio diego
+
+[33mcommit bc01545fb000c105cdcde8c2acb40888126a6dcc[m
+Author: MarianoR <mariano.riquelme@globallogic.com>
+Date:   Wed Sep 25 10:27:14 2019 -0300
+
+    subo lo mio
+
+[33mcommit ea593085e2e409a46110c0c4c3d1a437a6c06989[m
+Merge: 8c0b975 2e67b75
+Author: Mathias <mathias.gonzalez@globallogic.com>
+Date:   Wed Sep 25 10:26:52 2019 -0300
+
+    f https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 8c0b975c9607d883b053be083313d786b05c2c0d[m
+Author: Mathias <mathias.gonzalez@globallogic.com>
+Date:   Wed Sep 25 10:26:41 2019 -0300
+
+    Este es el commit de mathias
+
+[33mcommit a72a41d10aff2924d838ee74663f3f902b4472b6[m
+Merge: 9dcd14e 2e67b75
+Author: Diego Feresin <diegoferesin@gmail.com>
+Date:   Wed Sep 25 10:25:36 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 9dcd14e9060272d3cd7b81f567087ec0fb46e658[m
+Author: Diego Feresin <diegoferesin@gmail.com>
+Date:   Wed Sep 25 10:24:13 2019 -0300
+
+    first commit
+
+[33mcommit 2e67b755836e7f285b8feef0a7a97054467d18a5[m
+Merge: 7a114ee bedea8b
+Author: Pilar Ledesma Gonzalez <pilar.gonzalez@globallogic.com>
+Date:   Wed Sep 25 10:20:39 2019 -0300
+
+    Merge branch 'develop' of https://github.com/marianoRiquelme/capacitacion2592019 into develop
+
+[33mcommit 7a114ee6cf9091fe9866fbd0d9c2274419f81b4d[m
+Author: Pilar Ledesma Gonzalez <pilar.gonzalez@globallogic.com>
+Date:   Wed Sep 25 10:20:22 2019 -0300
+
+    se agrega archivo de texto pili.txt
+
+[33mcommit bedea8b87d91989ee592e7d8a97a51b2bb945da2[m
+Author: Facundo Ibarzabal <facundo.ibarzabal@globallogic.com>
+Date:   Wed Sep 25 10:10:31 2019 -0300
+
+    Se suma facu, pero facu no es facu, en realidad no es facu
+
+[33mcommit c854668df4fdbf1f2a1811129dca720ca0cbc8b0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: marianoRiquelme <55697873+marianoRiquelme@users.noreply.github.com>
+Date:   Wed Sep 25 09:38:36 2019 -0300
+
+    Initial commit
